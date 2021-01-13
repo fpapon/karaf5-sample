@@ -1,0 +1,1 @@
+# karaf5-sample
